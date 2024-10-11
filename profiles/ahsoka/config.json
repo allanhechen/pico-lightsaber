@@ -1,0 +1,9 @@
+{
+    "extension_window_size": 20,
+    "flash_window_size_min": 10,
+    "flash_window_size_max": 30,
+    "flash_range_offset": 10,
+    "color": [200, 200, 200],
+    "augmented_color": [255, 255, 255],
+    "clash_threshold": 2500
+}

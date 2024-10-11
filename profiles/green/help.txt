@@ -1,0 +1,9 @@
+Store settings in config.json
+
+one hum01.wav file
+one select.wav file
+
+swinghXY.wav and swinglXY.wav files must come in pairs
+inXY.wav
+outXY.wav
+clshXY.wav
