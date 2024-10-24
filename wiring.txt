@@ -1,0 +1,21 @@
+## mpu6500
+green: SCL to GP1
+blue: SDA to GP0
+
+## speaker
+red:    positive
+black:  negative
+
+## max98357a
+red:    positive
+black:  negative
+green:  sck (bclk) to GP6
+blue:   ws (lrc) to GP7
+yellow: sd (din) to GP8
+
+## led button
+red:    positive to GP15
+black:  negative to any ground
+
+## led data
+green:  data to GP2

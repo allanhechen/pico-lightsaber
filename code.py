@@ -9,7 +9,7 @@ import busio
 import json
 from os import listdir
 
-from mpu6500 import MPU6500  # Assuming you have a library for the MPU6500
+from mpu6500 import MPU6500
 from random import randint
 
 import neopixel
